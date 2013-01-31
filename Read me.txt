@@ -1,0 +1,13 @@
+****How to Run****
+
+#set an executable permission using the chmod command as follows:
+  
+	$chmod u+x menu.sh
+
+#Now you can run file as follows
+
+     	$./menu.sh
+
+#If located path has not been exported then use sh command as follows
+
+	$sh menu.sh
